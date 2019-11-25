@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Money Lover</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="gioithieu">Money Lover là một ứng dụng thông minh và dễ dàng sử dụng. Nó cho phép bạn quản lý và phân loại các khoản thu nhập và chi tiêu, tạo lập và theo dõi các kế hoạch tài chính trong tương lai. Ứng dụng hoạt động trên tất cả các thiết bị điện thoại, máy tính bảng, máy vi tính, website và tất cả các nền tảng: Windows, Android, iOS, Web.
+Ghi chép các khoản thu chi trở nên dễ dàng hơn
+Bạn chỉ tốn vài phút để ghi chép lại chi tiêu hàng ngày của mình, và phân loại vào các mục như là: Thức Ăn, Mua sắm; hay là thêm các khoản thu nhập như Lương, Quà tặng, v.v...
+Không còn nỗi lo chi tiêu ngoài tầm kiểm soát.
+Dựa trên thói quen tiêu dùng của bản thân, bạn có thể tạo một ngân sách để chi tiêu trong một khoảng thời gian nhất định. Ứng dụng sẽ thường xuyên nhắc nhở về tiến độ chi tiêu của bạn, giữ cho các khoản chi luôn trong tầm kiểm soát.
+Theo dõi và quản lý tiền bạc hiệu quả
+Money Lover tự động tạo cho bạn những biểu đồ báo cáo cực kỳ dễ nhìn, dễ hiểu, dễ nhớ, cho bạn một cái nhìn rõ ràng về các khoản thu chi của bản thân. Chẳng còn hoang mang không rõ "tiền về nơi đâu" nữa!
+Money Lover là ứng dụng được ra đời để giúp người dùng dễ dàng hơn trong việc quản lý tài chính cho bản thân, hướng đến việc tiết kiệm và chi tiêu hợp lý... Ứng dụng cho phép người dùng ghi lại mọi khoản thu chi được thực hiện, sau đó tổng hợp để giúp họ biết được thói quen tiêu dùng của mình, từ ăn uống, học hành, mua sắm, du lịch và hẹn hò...
+
+Với Money Lover, người dùng sẽ biết được ngân sách hiện có thể chi tiêu của mình là bao nhiêu, mình đã tiêu tiền vào những khoản nào, số tiền đã tiết kiệm được... từ đó chủ động quản lý tài chính cá nhân và thay đổi hành vi tiêu dùng phù hợp với tình hình tài chính hiện tại.
+
+Money Lover là một ứng dụng được phát triển bởi một công ty tại Việt Nam nên có giao diện hoàn toàn bằng tiếng Việt, rất dễ dàng và thuận cho người sử dụng trong nước.
+   </string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="facebook_app_id">303721157143244</string>
+</resources>

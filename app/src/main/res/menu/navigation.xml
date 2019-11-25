@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_khoanthu"
+        android:icon="@drawable/ic_collections_black_khoanthu"
+        android:title="Khoản thu" />
+
+    <item
+        android:id="@+id/navigation_khoanchi"
+        android:icon="@drawable/ic_monetization_on_black_khoanchi"
+        android:title="Khoản chi" />
+
+    <item
+        android:id="@+id/navigation_thongke"
+        android:icon="@drawable/ic_insert_chart_black_thongke"
+        android:title="Thống kê" />
+
+
+
+
+</menu>
